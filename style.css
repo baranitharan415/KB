@@ -1,0 +1,101 @@
+
+.nav ul
+{
+    display:flex;
+    list-style: none;
+    justify-content: space-around;
+    /* background-color: yellowgreen; */
+    flex-wrap: wrap;
+}
+.a
+{
+    margin: 20px 0px 20px 0px;
+}
+body
+{
+    margin: 10px;
+    padding: 20px;
+
+}
+.nav button
+{
+    color: aquamarine;
+    border-color: aqua;
+    background-color: white;
+    border-width: 2px;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 50px 10px 50px;
+    
+}
+.c button,.l button
+{
+    color: white;
+    background-color: aqua;
+    border-width: 1px;
+    /* text-align: center; */
+    font-size: 15px;
+    padding: 10px 10px 10px 10px;
+}
+.c{
+    
+  /* height: 100vh; */
+  background: linear-gradient(
+    to bottom,
+    paleturquoise 0%,
+    paleturquoise 70%,
+    white 70%,
+    white 100%
+  );
+  /* align-items: center; */
+}
+.k
+{
+    text-align: center;
+}
+#i
+{
+    margin: 30px;
+}
+#s
+{
+    display: flex;
+    margin-left: 200px;
+    flex: wrap;
+
+    /* display: grid;
+
+    grid-template-columns: 60% 40%; */
+}
+#m
+{
+    padding: 60px;
+    margin-left: 200px;
+
+}
+footer
+{
+    background-color: rgb(13, 13, 16);
+}
+#f
+{
+
+    display: flex;
+    flex: 3px:1px:1px:1px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: whitesmoke;
+}
+#f ul{
+    list-style: none;
+    padding: 20px;
+}
+hr,footer p
+{
+    color: aliceblue;
+}
+#z
+{
+    margin-top: 50px;
+    margin-left: 100px;
+}
